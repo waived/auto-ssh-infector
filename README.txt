@@ -21,10 +21,7 @@ FEATURES:
 
      BLACKLIST: This script generates IP addresses following no particular scheme. By
                 default, internal IPs and subnets are blocked for efficiency and to 
-                reduce and false positives. If specified by the user, this script will
-                avoid all known IP addresses belonging to local and foreign Goverments, 
-                Intelligence Agencies, miscellaneous federal assets and Law Enforcement.
-                It is recommended that you enable this option.
+                reduce and false positives.
 
     HOST COUNT: The user can specify how many IP addresses that are to be probed. Of
                 course, this script also has to option to run indefinitely. 
