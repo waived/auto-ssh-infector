@@ -16,7 +16,7 @@ def _inject():
         _isBad = False
         _ip = ".".join(str(random.randint(0, 255)) for _ in range(4))
                 
-        # confirm IP is not government owned
+        # confirm IP is not blacklisted
         if sys.argv[5].lower() == 'y':
             for y in _blklst:
                 if _ip.startswith(y):
