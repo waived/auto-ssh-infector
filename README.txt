@@ -42,4 +42,4 @@ KNOWN BUGS:
      I'm lazy and spent very little time field testing this. It is possible.
 
 FUTURE UPDATES:
-     That's funny lol. No...
+     Maybe, idk...lmao
