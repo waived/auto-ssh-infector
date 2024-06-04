@@ -1,0 +1,42 @@
+Usernames:
+   root
+   Administrator
+   Administrador
+   Administrateur
+   user
+   manager
+   test
+   admin
+   sys
+   system
+   user1
+   remote
+
+Passwords:
+   admin
+   enter
+   vps
+   system
+   sys
+   server
+   1234
+   123
+   13456
+   P@ssw0rd
+   Passw0rd
+   password
+   pass
+   admin
+   adm
+   administrador
+   administrator
+   12345
+   earth
+   user
+   test
+   qwerty
+   user1
+   system
+   remote
+   manager
+   administrateur
